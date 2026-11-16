@@ -1,10 +1,10 @@
 {
-  "id": "./levelup-os.html",
+  "id": "./index.html",
   "name": "LEVELUP OS — Real Life RPG",
   "short_name": "LEVELUP OS",
   "description": "Your quests. Your XP. Your game.",
   "lang": "ro",
-  "start_url": "./levelup-os.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#090b17",
