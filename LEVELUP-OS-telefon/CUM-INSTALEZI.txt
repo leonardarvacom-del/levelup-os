@@ -1,0 +1,12 @@
+LEVELUP OS – instalare pe telefon (Android / Samsung)
+
+1. Publica TOATE cele 5 fisiere din acest folder pe un hosting static HTTPS (ex. GitHub Pages sau Netlify Drop). Nu publica doar HTML-ul.
+2. Deschide linkul HTTPS in Google Chrome pe telefon.
+3. Apasa meniul ⋮ si alege „Instaleaza aplicatia” sau „Adauga pe ecranul de pornire”.
+4. Dupa prima incarcare completa aplicatia merge offline si apare cu iconita proprie.
+
+IMPORTANT:
+- HTML-ul simplu se poate deschide si local, dar asta nu instaleaza automat PWA-ul.
+- Datele localStorage din laptop NU trec automat in telefon. Foloseste Export JSON pe laptop si Import JSON pe telefon.
+- Salveaza periodic backup JSON. Stergerea datelor site-ului/browserului poate sterge progresul.
+- Pentru actualizarile aplicatiei, reincarca pagina online.
